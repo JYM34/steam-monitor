@@ -6,7 +6,22 @@ Automatically published by steam-monitor. Do not edit by hand.
 
 The version number is the client build's Unix timestamp; the Updated column shows it in UTC.
 
-| Channel | Version | Updated (UTC) |
-| --- | --- | --- |
-| Stable | 1788652215 | 2026-09-05 23:50:15 UTC |
-| Beta | 1791415817 | 2026-10-07 23:30:17 UTC |
+| Version | Channel | Updated (UTC) | steamclient64.dll | SteamUI.dll |
+| --- | --- | --- | --- | --- |
+| 1791856936 | Beta | 2026-10-13 04:02:16 UTC | [3f2de2f8b40f](steamclient/3f2de2f8b40fcded90e51d85cb047ee738592b70412088fd1115c68a70a47d90.toml) | [c4a1eae64041](steamui/c4a1eae640411380fd2b419bfdb3b34ecca65c14bcf7ad6881b9886d3a6d1de4.toml) |
+| 1791851171 | Beta | 2026-10-13 02:26:11 UTC | [c7bb26f4a1f0](steamclient/c7bb26f4a1f07a5908e807beb5a25b44d033fde10989da64306492997a6663f5.toml) | [a2713e86183f](steamui/a2713e86183fec6304285b348be4d50647c99511475e811d0fd9d84931c9e9ac.toml) |
+| 1791686101 | Beta | 2026-10-11 04:35:01 UTC | [711adbd8ef7f](steamclient/711adbd8ef7f7b7fe7e93b2689173091500c4b137047e79549450260c11c966a.toml) | [ec4e251f0919](steamui/ec4e251f091925455cc8e8c83cde0e2c0ab02588332153158f384ecc8c00202f.toml) |
+| 1791592380 | Beta | 2026-10-10 02:33:00 UTC | [d601f779f14a](steamclient/d601f779f14ab1f9da0bdd9ebed4bfa572a7b8b8acdfc92ea45103728c20721b.toml) | [5c01fa9b7a04](steamui/5c01fa9b7a047d563abc9dfdd3a2a7b75ff3cd4764da546c21ad1fc07199c987.toml) |
+| 1791415817 | Beta | 2026-10-08 01:30:17 UTC | [0156589a0747](steamclient/0156589a0747e298c64be5902cc8934a99d468ddb8f7249f8be87f6fa50f15a6.toml) | [869364dcb697](steamui/869364dcb6973a3a6e494ab4ed82a3c3f6a8e61de2284e3bb5221e008f3c6108.toml) |
+| 1791249696 | Beta | 2026-10-06 03:21:36 UTC | [7b2ae9f805ec](steamclient/7b2ae9f805ecba2ae2c733aa934a715f052a16eb481090e1f3cb88d7501c8df8.toml) | [59029615b122](steamui/59029615b12210be374c8b10afab64cc3bdf293d12266aa4b50619cabb8b910e.toml) |
+| 1790904859 | Beta | 2026-10-02 03:34:19 UTC | [39e5a04d731a](steamclient/39e5a04d731a49977137211f6c8afbb5083ef91b55af13a3a8b60e71989ed558.toml) | [cc2a5879cc29](steamui/cc2a5879cc294764686dbee761c327dfe4dac281212c4de8669aa707e04fe980.toml) |
+| 1790721607 | Beta | 2026-09-30 00:40:07 UTC | [f85eab297648](steamclient/f85eab29764866ff3e4e45ec4fd4482a2a37417a6bcd9a17612969d308322109.toml) | [fd666ab75651](steamui/fd666ab756515ae428595cb01c83f29a24280b4c4e45d46e35c783dd15fd0325.toml) |
+| 1790545198 | Beta | 2026-09-27 23:39:58 UTC | [6cc13c9af2b9](steamclient/6cc13c9af2b95aadb4a76f7a30601de48b303dbfa3ce58fc5c8db7a44d495602.toml) | [c06889e678ec](steamui/c06889e678ecba8518450da96c8681156b4a2beb149c31d6426a060efef55d63.toml) |
+| 1790534246 | Beta | 2026-09-27 20:37:26 UTC | [a1b33085bc64](steamclient/a1b33085bc64189e4d88935803a03a3ef21e17a2c1948ca2d222849c976b30c5.toml) | [fe42451e6b41](steamui/fe42451e6b413558adf87ba37f1ec398ec7031094f63232300df5015dcc3779c.toml) |
+| 1790380355 | Beta | 2026-09-26 01:52:35 UTC | [4471517105b1](steamclient/4471517105b1fbd603441b38db04570d185a9c993e3aa54b5cc237c3eb1fe51f.toml) | [ade82c495868](steamui/ade82c4958685d768fcf86f02e4132d0f60adf23605e93f7c263b2c859743691.toml) |
+| 1790121765 | Beta | 2026-09-23 02:02:45 UTC | [f2b3fdef5dcc](steamclient/f2b3fdef5dccbb75ba07f9f099d79b27c3d0815b7783e1a23888d2ccb808c4f6.toml) | [b9bc8f0acf0c](steamui/b9bc8f0acf0c470cb568c3e49e372a0610a7fcd707add6ffac7accc4c9376e6d.toml) |
+| 1790036264 | Beta | 2026-09-22 02:17:44 UTC | [90f24d3b2f6f](steamclient/90f24d3b2f6f8e627e0f1f0ae7d713aa86d0e86f70d2039a30907adbfdb5927c.toml) | [61b15d690f5a](steamui/61b15d690f5a646d7f0226403d322cad66818572b9f05274c7eb62ec008f73ab.toml) |
+| 1789781627 | Beta | 2026-09-19 03:33:47 UTC | [d2d085e724fd](steamclient/d2d085e724fd27ee7b52596f8848c622ae09dfbb6d5b73d0eb2cb51469b0d2d8.toml) | [579c6fe40c79](steamui/579c6fe40c7970cc2c4100b5e0cab4ed4b3898e85b33c0ce8c1a779458cd18ff.toml) |
+| 1789606022 | Beta | 2026-09-17 02:47:02 UTC | [a984dd3f1e6e](steamclient/a984dd3f1e6e863686489b957a88d707520aeb386a04534cce669de7054f1295.toml) | [cbece19e1bed](steamui/cbece19e1beda74f05974d917ea5f90ffc2cdd52c8730967f64de160aa172b73.toml) |
+| 1789086785 | Beta | 2026-09-11 02:33:05 UTC | [78b1f41e2388](steamclient/78b1f41e23887767cd791bff63257d83f2a81599c5f0dabac1f36e1ed5a767e2.toml) | [5a3afd9b15f0](steamui/5a3afd9b15f0a2f4dbad332a28e6fc59db02efc85b1e0b33b246482e38e7428e.toml) |
+| 1788652215 | Stable | 2026-09-06 01:50:15 UTC | [caba4826aa35](steamclient/caba4826aa3501039d095aee1843a6bfb270fb43a3ab4455b2d6733223579fee.toml) | [cb387adefbba](steamui/cb387adefbbac64a3c1490d4275d00daf3a1e0219b4580726ef7681db7429278.toml) |

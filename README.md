@@ -8,6 +8,8 @@ The version number is the client build's Unix timestamp; the Updated column show
 
 | Version | Channel | Updated (UTC) | steamclient64.dll | SteamUI.dll |
 | --- | --- | --- | --- | --- |
+| 1792626604 | Beta | 2026-10-21 23:50:04 UTC | [891378c07c85](steamclient/891378c07c8524336f644e517e21d7ba7523227d78a2ec090fa405acdb2e4579.toml) | [d96369971d3f](steamui/d96369971d3f9a13b8ab7f568b9b2478dd7ab3599eb520017b9508340473d224.toml) |
+| 1792618285 | Stable | 2026-10-21 21:31:25 UTC | [253e0a11a441](steamclient/253e0a11a4415b38c78a42f7bdd6ecc426455f06c1ba6453a48090df3142dbbc.toml) | [cd9226db4e6c](steamui/cd9226db4e6c28942df70c22c0475d91fdd62cba5f100baae2d65af57cabb610.toml) |
 | 1791918634 | Beta | 2026-10-13 19:10:34 UTC | [e9045710ec7e](steamclient/e9045710ec7ee47d7b7488d1c5dda2d933dec7e251e965967a5c48f4df68eb4e.toml) | [1b9457943205](steamui/1b9457943205dc3af0bd53463ba331cbd2a381388699705c02271aac7a2b1252.toml) |
 | 1791856936 | Beta | 2026-10-13 02:02:16 UTC | [3f2de2f8b40f](steamclient/3f2de2f8b40fcded90e51d85cb047ee738592b70412088fd1115c68a70a47d90.toml) | [c4a1eae64041](steamui/c4a1eae640411380fd2b419bfdb3b34ecca65c14bcf7ad6881b9886d3a6d1de4.toml) |
 | 1791851171 | Beta | 2026-10-13 00:26:11 UTC | [c7bb26f4a1f0](steamclient/c7bb26f4a1f07a5908e807beb5a25b44d033fde10989da64306492997a6663f5.toml) | [a2713e86183f](steamui/a2713e86183fec6304285b348be4d50647c99511475e811d0fd9d84931c9e9ac.toml) |

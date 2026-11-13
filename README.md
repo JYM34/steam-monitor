@@ -8,6 +8,8 @@ The version number is the client build's Unix timestamp; the Updated column show
 
 | Version | Channel | Updated (UTC) | steamclient64.dll |
 | --- | --- | --- | --- |
+| 1794536281 | Beta | 2026-11-13 02:18:01 UTC | [669fa08e2592](steamclient/669fa08e259277fbf5a1dfe15ce88afe734e89151194304b44d92f418dcc985b.toml) |
+| 1794424036 | Stable | 2026-11-11 19:07:16 UTC | [ebf46f84606e](steamclient/ebf46f84606e4dc49ebd551f6621f7ca5c19927d572a49f0aa4925ce9414096c.toml) |
 | 1794266161 | Beta | 2026-11-09 23:16:01 UTC | [ebf46f84606e](steamclient/ebf46f84606e4dc49ebd551f6621f7ca5c19927d572a49f0aa4925ce9414096c.toml) |
 | 1794079253 | Beta | 2026-11-07 19:20:53 UTC | [b91599b5ab91](steamclient/b91599b5ab91cfc5ce7db578faa8ad864d358542ab3cbc9c8187048a8935cf63.toml) |
 | 1792626604 | Beta | 2026-10-21 23:50:04 UTC | [891378c07c85](steamclient/891378c07c8524336f644e517e21d7ba7523227d78a2ec090fa405acdb2e4579.toml) |
